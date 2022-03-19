@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhrajitbw" alt="subhrajitbw" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/laltubh" target="blank"><img src="https://img.shields.io/twitter/follow/laltubh?logo=twitter&style=for-the-badge" alt="laltubh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/laltu_bh" target="blank"><img src="https://img.shields.io/twitter/follow/laltubh?logo=twitter&style=for-the-badge" alt="laltubh" /></a> </p>
 
 - 🔭 I’m currently working on [Jobs Search Webiste](subhrajitbw.github.io)
 
