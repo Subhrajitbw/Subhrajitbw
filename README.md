@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/laltubh" target="blank"><img src="https://img.shields.io/twitter/follow/laltubh?logo=twitter&style=for-the-badge" alt="laltubh" /></a> </p>
 
-- 🔭 I’m currently working on [Jobs Search Webiste](subhrajitbw.hithub.io)
+- 🔭 I’m currently working on [Jobs Search Webiste](subhrajitbw.github.io)
 
 - 🌱 I’m currently learning **Vue JS**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Node, WordPress, Laravel**
 
-- 📫 How to reach me **subhrajitbhowmik80@gmai.com**
+- 📫 How to reach me **subhrajitbhowmik80@gmail.com**
 
 - ⚡ Fun fact **I am eager to learn more and looking for opportunities**
 
